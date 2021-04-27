@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.outer{
+    width: 900px;
+    height: 1500px;
+    border: 1px solid white;
+    margin: 0px auto;
+}
+.outer h1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color:gold ;
+    border: 1px solid black;
+    font-weight: bold;
+}
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+}
+h2{
+    float: right;
+}
